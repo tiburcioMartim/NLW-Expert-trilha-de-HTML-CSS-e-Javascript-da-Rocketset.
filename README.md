@@ -1,4 +1,4 @@
-Fico muito contente em compartilhar que participei de um evento repleto de conteúdo enriquecedor e gostaria de expressar minha gratidão aqui.
+Fico muito contente em compartilhar que participei de um evento da [https://app.rocketseat.com.br/home] repleto de conteúdo enriquecedor e gostaria de expressar minha gratidão aqui.
 
 Tecnologias utilizadas no evento:
 - HTML
